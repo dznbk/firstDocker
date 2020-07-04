@@ -1,0 +1,4 @@
+# firstDocker
+はじめてのDockerfile
+
+わかばちゃんのやつを参考にDockerfileをDockerHubに公開するだけのリポジトリ
